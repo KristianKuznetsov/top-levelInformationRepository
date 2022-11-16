@@ -1,5 +1,5 @@
 # Repositories second year university:
-
+- [Home](https://github.com/KristianKuznetsov/HomeRepository)
 - [Operating systems](https://github.com/KristianKuznetsov/JavaSecondCourseOperatingSystems)
 - [Industrial Programming](https://github.com/KristianKuznetsov/JavaSecondCourseIndustrialProgramming)
   - [Lectures](https://github.com/KristianKuznetsov/avaSecondCourseLectures)
@@ -15,4 +15,3 @@
     - Контрольная работа 1 (ДП)
     - Контрольная работа 2 (?)
 - [Other projects](https://github.com/KristianKuznetsov/JavaSecondCourseOtherProjects)
-- [Home](https://github.com/KristianKuznetsov/HomeRepository)
