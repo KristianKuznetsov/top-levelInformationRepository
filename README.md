@@ -1,4 +1,4 @@
-# Repositories:
+# Repositories second year university:
 
 - [Operating systems](https://github.com/KristianKuznetsov/JavaSecondCourseOperatingSystems)
 - [Industrial Programming](https://github.com/KristianKuznetsov/JavaSecondCourseIndustrialProgramming)
