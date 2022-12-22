@@ -14,5 +14,4 @@
     - Структуры данных и графы
     - Задания для желающих
     - Контрольная работа 1 (ДП)
-    - Контрольная работа 2 (?)
 - [Other projects](https://github.com/KristianKuznetsov/JavaSecondCourseOtherProjects)
